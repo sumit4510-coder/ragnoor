@@ -1,0 +1,22 @@
+/* Main Background Design */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    min-height: 100vh;
+}
+
+/* Heading Design */
+h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+}
+
+/* Paragraph Design */
+p {
+    text-align: center;
+    font-size: 18px;
+}
